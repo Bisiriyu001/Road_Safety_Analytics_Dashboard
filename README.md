@@ -6,7 +6,7 @@ This project focuses on a comprehensive statistical analysis of road traffic acc
 
 ## Dashboard Preview
 ![Road Safety Analytics Dashboard](Images/Dashboard.png)
-## Figure 1: Final Interactive Road Safety Analytics Dashboard.
+Figure 1: Final Interactive Road Safety Analytics Dashboard.
 ## Key Features & Functionality
 - Interactive KPI Cards: Real-time tracking of Total Accidents (307,972), Average Speed Limit (38.87 mph), and Total Casualties (417,882).
 - Dynamic Filtering: Integrated Slicers for Urban vs. Rural areas and Accident Date (Yearly/Monthly) to allow for deep-dive analysis.
