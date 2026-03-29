@@ -35,12 +35,12 @@ Figure 1: Final Interactive Road Safety Analytics Dashboard.
 - Seasonal Peaks: November consistently shows a spike in accidents, correlating with raining and low-visibility weather conditions.
 
 ## Repository Structure
-Plaintext
+```text
 ├── Data/               # Raw and Cleaned Datasets (Sample)
 ├── Dashboard/          # Final Excel (.xlsx) Dashboard File
 ├── Reports/            # Final Word Report (PDF) and Presentation
 ├── Images/             # Screenshots of Dashboard and Charts
 └── README.md           # Project Documentation (This file)
-
+```
 ## Conclusion
 This project demonstrates the power of data storytelling. By bridging the gap between raw numbers and visual analytics, I have developed a tool that empowers CoreTech Labs to make informed decisions to save lives and improve road infrastructure.
