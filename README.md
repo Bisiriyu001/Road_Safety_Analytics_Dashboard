@@ -5,7 +5,7 @@
 This project focuses on a comprehensive statistical analysis of road traffic accidents. Using a dataset of 307,972 records, I transformed raw, unstructured data into a high-fidelity interactive dashboard. The primary goal is to provide stakeholders with actionable insights to drive data-informed safety policies and resource allocation.
 
 ## Dashboard Preview
-![Road Safety Analytics Dashboard](C:\Users\hp\Desktop\CoreTech Labs Capstone Project\Images\Dashboard.png)
+![Road Safety Analytics Dashboard](Images/Dashboard.png)
 Figure 1: Final Interactive Road Safety Analytics Dashboard.
 ## Key Features & Functionality
 - Interactive KPI Cards: Real-time tracking of Total Accidents (307,972), Average Speed Limit (38.87 mph), and Total Casualties (417,882).
